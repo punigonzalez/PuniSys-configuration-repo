@@ -1,5 +1,5 @@
 booking:
-  property: Customer Profile Dev
+  property: Customer Profile Dev updated
 
   jpa:
     hibernate:
